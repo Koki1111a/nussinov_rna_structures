@@ -2,3 +2,6 @@
 
 ・入力するRNA配列は，プログラム内のmain()の中に記述．
 ・2次構造は標準出力に図示される．
+
+実行方法
+python nussinov_rna_structures.py
